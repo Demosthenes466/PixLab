@@ -128,6 +128,8 @@ public class PictureTester
     beach.explore();
   }
 
+  
+
 
   
   /** Main method for testing.  Every class can have a main
@@ -155,7 +157,7 @@ public class PictureTester
 
     //testCollage();
     //testCopy();
-    //testEdgeDetection();
+    testEdgeDetection();
     //testEdgeDetection2();
     //testChromakey();
     //testEncodeAndDecode();
